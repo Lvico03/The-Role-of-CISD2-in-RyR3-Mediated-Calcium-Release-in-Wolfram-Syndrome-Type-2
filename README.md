@@ -2,7 +2,7 @@
 
 Bachelor's thesis project — Corso di laurea triennale in Biotecnologie Mediche, Università degli Studi di Milano (A.Y. 2024/2025), carried out at the **Laboratory of Molecular and Cellular Signaling, KU Leuven**.
 
-- **Author:** Ludovico Salmin
+- **Author:** Ludovico Salmin 
 - **Supervisor:** Prof. Emanuela Galliera (UniMi)
 - **Tutor:** Jens Loncke (KU Leuven)
 
@@ -49,10 +49,10 @@ Wolfram Syndrome is a rare neurodegenerative disorder with a life expectancy of 
 .
 ├── plots/         # Generated figures and plots
 ├── presentation/  # Slides for the thesis defense
-├── scripts/       # Analysis and processing scripts
+├── scripts/       # R scripts for statistic analysis and plots
 └── thesis/        # Thesis manuscript
 ```
 
 ## Acknowledgments
 
-Wolfram Syndrome figure adapted from Loncke et al., *Sci. Signal.*, 2021. Protein structures (CISD2: PDB 3FNV; RyR2: PDB 7U9R) from the RCSB Protein Data Bank (www.rcsb.org). Diagrams adapted using BioRender.com.
+ImageJ macros and Python scripts for processing of raw data were retrieved from https://github.com/jensloncke 
